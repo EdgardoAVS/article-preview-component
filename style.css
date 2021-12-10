@@ -86,8 +86,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 35px;
-  height: 35px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   background-color: var(--light-grayish-blue);
   margin-right: 30px;
@@ -101,11 +101,7 @@ body {
 .share-button a {
   padding: 10px;
 }
-.share-button a img {
-  width: 20px;
-  height: 20px;
-}
-  
+ 
 .share-popup {
   visibility: hidden;
   padding: 15px 30px;
